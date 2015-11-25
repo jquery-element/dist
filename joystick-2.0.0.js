@@ -1,6 +1,6 @@
 /*
-	Joystick-HTML5 - 2.0.0
-	https://github.com/Mr21/joystick-html5
+	joystick - 2.0.0
+	https://github.com/jquery-element/joystick
 */
 
 (function( $ ) {

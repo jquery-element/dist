@@ -1,6 +1,6 @@
 /*
 	jquery-element - 1.7.0
-	https://github.com/Mr21/jquery-element
+	https://github.com/jquery-element/jquery-element
 */
 
 (function( $ ) {
