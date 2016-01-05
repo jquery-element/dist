@@ -1,4 +1,4 @@
-# /dist/*.js
+# *.js
 
 ###### Examples :
 ``` html
@@ -9,5 +9,5 @@
 <script src="//jquery-element.github.io/cuteslider-2.0.0.js"/></script>
 <script src="//jquery-element.github.io/joystick-2.0.0.js"/></script>
 <script src="//jquery-element.github.io/slidebutton-1.1.0.js"/></script>
-<script src="//jquery-element.github.io/tooltip-1.0.2.js"/></script>
+<script src="//jquery-element.github.io/tooltip-1.1.1.js"/></script>
 ```
